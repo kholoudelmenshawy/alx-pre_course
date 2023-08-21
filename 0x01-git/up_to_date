@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git pull
+=======
+#!/bin/bash
+updating readme.md file using github
+>>>>>>> origin/update_script
